@@ -2,7 +2,7 @@
 
 # catalogue
 
-[java](./01-Java)
+[Java](./01-Java)
 
 [JVM](./02)
 
